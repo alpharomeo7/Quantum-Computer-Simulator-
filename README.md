@@ -4,6 +4,7 @@ This is a Swift Playground I created for my WWDC Scholarship Submission
 If you want you run the simulator on your device, Download and Unzip  the .zip file
 
 If you want to have look at the code, go to the folder titled QuantumComputerSimulator
+
 Note : Most of the files are part of the UI/UX, 
 If you're interested in the working, look at : https://github.com/alpharomeo7/Quantum-Computer-Simulator-/blob/master/QuantumComputerSimulator/Sources/QuantumCore.swift
 
