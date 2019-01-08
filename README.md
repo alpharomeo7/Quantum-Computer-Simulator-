@@ -1,6 +1,9 @@
 # Quantum-Computer-Simulator-
 This is a Swift Playground I created for my WWDC Scholarship Submission 
 
+If you want you run the simulator on your device, Download and Unzip  the .zip file
+
+If you want to have look at the code, go to the folder titled QuantumComputerSimulator
 You can run my program in Xcode (Mac) or Swift Playgrounds (iPad)
 
 Please send a review to ajay.rajendra.rawat@gmail.com, it'll really help me.
